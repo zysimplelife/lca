@@ -1,0 +1,14 @@
+/bin
+build/
+.gradle
+.classpath
+.project
+.gradle
+.sonar
+.settings
+target/
+*.log.*
+*.log
+.idea/
+*.iml
+javaoutput/
